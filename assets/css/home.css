@@ -40,7 +40,6 @@ nav ul li,
 footer ul li {
   display: inline;
   margin-right: 40px;
-  /* margin-top: 30px; */
 }
 
 .hover {
@@ -115,7 +114,7 @@ footer ul li {
   /* color: #0077c0; */
 }
 
-/*waves****************************/
+/*waves*/
 
 
 .box {
@@ -130,10 +129,7 @@ footer ul li {
 	bottom: -700px;
 	left: 650px;
   opacity: .45;
-  /* position: absolute;
-  top: 3%;
-  left: 10%; */
-  background: #0af;
+  background: #fcbf1e;
   width: 2100px;
   height: 2000px;
   /* transform-origin: 50% 48%; */
@@ -144,13 +140,13 @@ footer ul li {
 .wave.-three {
   animation: drift 7500ms infinite linear;
 	position: fixed;
-	background-color: #77daff;
+	background-color: #0779e4;
 }
 
 .wave.-two {
   animation: drift 3000ms infinite linear;
   opacity: .1;
-  background: black;
+  background: #fa744f;
 	position: fixed;
 }
 

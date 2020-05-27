@@ -21,7 +21,30 @@
     <style type="text/css"></style>
   </head>
 
+  <body>
+    <div class='box'>
+      <div class='wave -one'></div>
+      <div class='wave -two'></div>
+      <div class='wave -three'></div>
+    </div>
+    <nav>
+      <ul>        
+    <li><a href="/" class="hover">home</a></li>
+    <li><a href="/about" class="hover">about</a></li>
+		<li><a href="#" class="hover">work</a></li>
+		<li><a href="#" class="hover">projects</a></li>
+		<li><a href="#" class="hover">writing</a></li>
+		<li><a href="#" class="hover">stuff</a></li>
+      </ul>
+    </nav>
+    <h1 class="name">
+      {{ title }}</span>
+    </h1>
 
+    <div class="bodytext">
+      {{ pagecontent }}
+    </div>
+{{ content | safe }}
 
   <hr />
     <footer>

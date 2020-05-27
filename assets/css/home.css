@@ -92,6 +92,16 @@ footer ul li {
   transform: scaleX(1);
 }
 
+.underproj > a {
+  position: relative;
+  color: #79d70f;
+  text-decoration: none;
+}
+
+.underproj > a:hover {
+  color: #ad6989;
+}
+
 .bodytext {
   color: #e7c296;
   font-family: "Lato", sans-serif;

@@ -60,6 +60,14 @@ footer ul li {
   background-size: 4px 50px;
 }
 
+.foothover {
+    font-family: "Manrope", sans-serif;
+    font-style: bold;
+    /* font-weight: 100; */
+    color: #ededed;
+    text-decoration: none;
+}
+
 .nodec {
   text-decoration: none !important;
 }

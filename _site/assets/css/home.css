@@ -28,7 +28,7 @@ nav{
 }
 nav ul,
 footer ul {
-  font-family: "Lato", sans-serif;
+  font-family: "Manrope", sans-serif;
   font-size: 1rem;
   letter-spacing: 0.15rem;
   color: aliceblue;
@@ -43,10 +43,10 @@ footer ul li {
 }
 
 .hover {
-  font-family: "Josefin Sans", sans-serif;
-  font-weight: 700;
-  font-size: 1.1rem;
-  letter-spacing: 0.2rem;
+  font-family: "Questrial", sans-serif;
+  /* font-weight: 100; */
+  font-size: 1rem;
+  letter-spacing: 0.3rem;
   background: linear-gradient(to bottom, #0066cc 0%, #0066cc 100%);
   background-position: 0 100%;
   background-repeat: repeat-x;
@@ -66,7 +66,7 @@ footer ul li {
 
 .undertxt > a {
   position: relative;
-  color: #e7c296;
+  color: #ffbd69;
   text-decoration: none;
 }
 
@@ -84,7 +84,7 @@ footer ul li {
   background-color: rgba(230, 24, 24, 0.966);
   visibility: hidden;
   transform: scaleX(0);
-  transition: all 0.25s ease-in-out 0s;
+  transition: all 0.2s ease-in-out 0s;
 }
 
 .undertxt > a:hover::before {
@@ -104,18 +104,18 @@ footer ul li {
 
 .bodytext {
   color: #e7c296;
-  font-family: "Lato", sans-serif;
-  font-size: 1rem;
+  font-family: "Manrope", sans-serif;
+  font-size: 1.2rem;
   letter-spacing: 0.1rem;
 }
 
 .name {
-  font-size: 2.5rem;
+  font-size: 3rem;
   margin-top: 10%;
   font-family: "Montserrat", sans-serif;
   letter-spacing: 0.27rem;
   font-weight: 700;
-  color: #e7c296;
+  color: #ffbd69;
 }
 
 .periodt {
@@ -123,6 +123,38 @@ footer ul li {
   color: rgba(218, 47, 47, 0.966) !important;
   /* color: #0077c0; */
 }
+
+.page404msg1 {
+  font-family: "Mali";
+  font-size: 2rem;
+  color: #a8df65;
+}
+
+.page404msg1 a {
+  position: relative;
+  color: #f37121;
+  text-decoration: none;
+}
+
+.page404msg2 {
+  font-family: "Parisienne";
+  font-size: 2rem;
+  color: #88e1f2;
+}
+
+.page404msg2 a {
+  font-family: "Bangers";
+  font-size: 3.5rem;
+  position: relative;
+  color: #bb3b0e;
+  text-decoration: none;
+}
+
+.page404msg2 a:hover {
+  color: #fcf876;
+}
+
+
 
 /*waves*/
 

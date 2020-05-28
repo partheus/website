@@ -2,8 +2,8 @@ html,
 body {
   margin: 0;
   padding: 0;
-  overflow-x:hidden;
-	overflow-y:hidden;
+  /* overflow-x:hidden;
+	overflow-y:hidden; */
 }
 
 body {
@@ -26,6 +26,11 @@ hr {
 nav{
   margin-top: 60px;
 }
+
+nav-item-active{
+  font-style: italic;
+}
+
 nav ul,
 footer ul {
   font-family: "Manrope", sans-serif;
@@ -42,6 +47,10 @@ footer ul li {
   margin-right: 40px;
 }
 
+
+footer{
+  padding-bottom: 7rem;
+}
 .hover {
   font-family: "Questrial", sans-serif;
   /* font-style: oblique; */
@@ -55,6 +64,11 @@ footer ul li {
   color: #ededed;
   text-decoration: none;
   transition: background-size 0.3s;
+  line-height: 3rem;
+}
+
+.home {
+  flex: left;
 }
 
 .hover:hover {
@@ -67,6 +81,7 @@ footer ul li {
     /* font-weight: 100; */
     color: #ededed;
     text-decoration: none;
+    line-height: 3rem;
 }
 
 .nodec {
@@ -117,6 +132,25 @@ footer ul li {
   font-size: 1.2rem;
   letter-spacing: 0.1rem;
 }
+
+.blogcontent {
+  margin: auto;
+  color: #e7c296;
+  font-family: "Manrope", sans-serif;
+  font-size: 1.2rem;
+  letter-spacing: 0.075rem;
+}
+
+.blogcontent > h2 {
+  margin: auto;
+  color: red;
+  font-family: "Manrope", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 900;
+  letter-spacing: 0.075rem;
+}
+
+
 
 .name {
   font-size: 3.5rem;

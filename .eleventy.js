@@ -12,7 +12,3 @@ module.exports = function(eleventyConfig) {
         }
     }
 }
-
-module.exports = function(eleventyConfig) {
-    eleventyConfig.addLayoutAlias('post', 'includes/post.njk');
-  };

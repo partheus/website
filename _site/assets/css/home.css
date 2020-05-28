@@ -52,11 +52,11 @@ footer{
   padding-bottom: 7rem;
 }
 .hover {
-  font-family: "Questrial", sans-serif;
-  /* font-style: oblique; */
-  /* font-weight: 100; */
-  font-size: 1rem;
-  letter-spacing: 0.25rem;
+  font-family: "Manrope", sans-serif;
+  font-style: oblique;
+  font-weight: 200; 
+  font-size: 1.1rem;
+  letter-spacing: 0.2rem;
   background: linear-gradient(to bottom, #0066cc 0%, #0066cc 100%);
   background-position: 0 100%;
   background-repeat: repeat-x;
@@ -77,8 +77,7 @@ footer{
 
 .foothover {
     font-family: "Manrope", sans-serif;
-    font-style: bold;
-    /* font-weight: 100; */
+    /* font-style: bold; */
     color: #ededed;
     text-decoration: none;
     line-height: 3rem;

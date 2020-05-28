@@ -44,9 +44,10 @@ footer ul li {
 
 .hover {
   font-family: "Questrial", sans-serif;
+  /* font-style: oblique; */
   /* font-weight: 100; */
   font-size: 1rem;
-  letter-spacing: 0.3rem;
+  letter-spacing: 0.25rem;
   background: linear-gradient(to bottom, #0066cc 0%, #0066cc 100%);
   background-position: 0 100%;
   background-repeat: repeat-x;
@@ -118,8 +119,8 @@ footer ul li {
 }
 
 .name {
-  font-size: 3rem;
-  margin-top: 10%;
+  font-size: 3.5rem;
+  margin-top: 7%;
   font-family: "Montserrat", sans-serif;
   letter-spacing: 0.27rem;
   font-weight: 700;

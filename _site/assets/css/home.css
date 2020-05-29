@@ -60,7 +60,7 @@ footer{
   background: linear-gradient(to bottom, #0066cc 0%, #0066cc 100%);
   background-position: 0 100%;
   background-repeat: repeat-x;
-  background-size: 1px 1px;
+  background-size: 1px 3px;
   color: #ededed;
   text-decoration: none;
   transition: background-size 0.3s;
@@ -101,7 +101,7 @@ footer{
   content: "";
   position: absolute;
   width: 100%;
-  height: 2px;
+  height: 3px;
   bottom: 0;
   left: 0;
   background-color: rgba(230, 24, 24, 0.966);
@@ -109,6 +109,7 @@ footer{
   transform: scaleX(0);
   transition: all 0.2s ease-in-out 0s;
 }
+
 
 .undertxt > a:hover::before {
   visibility: visible;
@@ -133,21 +134,31 @@ footer{
 }
 
 .blogcontent {
-  margin: auto;
+  margin: 30px;
   color: #e7c296;
   font-family: "Manrope", sans-serif;
   font-size: 1.2rem;
   letter-spacing: 0.075rem;
 }
 
-.blogcontent > h2 {
+.blogcontenttitle {
   margin: auto;
-  color: red;
-  font-family: "Manrope", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 1.5rem;
-  font-weight: 900;
   letter-spacing: 0.075rem;
+  
 }
+
+.blogcontenttitle > a{
+  color: #dd7631;
+  text-decoration: none;
+}
+
+.blogcontenttitle > a:hover{
+  text-decoration: none;
+  color: #fff3cd;
+}
+
 
 
 

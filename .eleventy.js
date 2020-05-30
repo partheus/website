@@ -1,3 +1,5 @@
+const CleanCSS = require("clean-css");
+
 module.exports = function(eleventyConfig) {
   eleventyConfig.setFrontMatterParsingOptions({
     excerpt: true,

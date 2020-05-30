@@ -44,8 +44,8 @@ hr {
   border: 0;
   height: 1px;
   background-color: #255965;
-  margin-top: 50px;
-  margin-bottom: 60px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 nav{
@@ -70,8 +70,17 @@ nav ul li,
 footer ul li {
   display: inline;
   margin-right: 40px;
+  line-height: 3rem;
 }
 
+.social{
+  margin-bottom: -5px;
+  height: 25px;
+}
+
+.sitemap{
+  width: 80%;
+}
 
 footer{
   padding-bottom: 7rem;
@@ -81,7 +90,7 @@ footer{
   font-style: oblique;
   font-weight: 200; 
   font-size: 1rem;
-  letter-spacing: 0.2rem;
+  letter-spacing: 0.15rem;
   background: linear-gradient(to bottom, #0066cc 0%, #0066cc 100%);
   background-position: 0 100%;
   background-repeat: repeat-x;
@@ -89,7 +98,7 @@ footer{
   color: #ededed;
   text-decoration: none;
   transition: background-size 0.3s;
-  line-height: 3rem;
+  /* line-height: 3rem; */
 }
 
 .home {
@@ -224,7 +233,7 @@ footer{
 
 .name {
   font-size: 3rem;
-  margin-top: 7%;
+  margin-top: 5%;
   font-family: "Montserrat", sans-serif;
   letter-spacing: 0.27rem;
   font-weight: 700;

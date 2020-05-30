@@ -192,38 +192,34 @@ footer{
   color: #d65a31;
 }
 
-.projectcontainer{
-  padding-top: 20px;
-}
-
 .projectholder{
   text-decoration: none;
-  background-color: #f0cf85;
-  margin: 1.5%;
+  background-color: #30475e;
+  margin-top: 35px;
   width: 100%;
   border-radius: 5px;
 }
 
 .projectholder:hover{
-  box-shadow: 2px 2px 2px 2px #bd574e;
+  box-shadow: 2px 2px 2px 2px #c35d0b;
   transition: 0.13s;
 }
 
 .projecttitle{
   font-size: 1.25rem;
   padding: 10px 20px 0px 20px;
-  color: #006661;
+  color: #f0a500;
   font-family: "Montserrat", sans-serif;
   letter-spacing: 0.15rem;
   font-weight: 700;
 }
 
 .projectdetails{
-  padding: 10px 20px 30px 20px;
+  padding: 0px 20px 30px 20px;
   font-size: 1rem;
-  color: #30475e;
+  color: #f6d743;
   font-family: "Manrope", sans-serif;
-  letter-spacing: 0.15rem;
+  letter-spacing: 0.12rem;
   font-weight: 700;
 }
 

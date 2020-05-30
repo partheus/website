@@ -1,5 +1,9 @@
 module.exports = function(eleventyConfig) {
 
+    eleventyConfig.addCollection('posts',collection => {
+        return collection.getFilteredByGlob('/src/writing/posts/*.md')
+    });
+
     eleventyConfig.addPassthroughCopy("assets");
     return {
         passthroughFileCopy: true,
@@ -8,7 +12,7 @@ module.exports = function(eleventyConfig) {
         dir: {
             input: "src",
             output: "_site",
-            include: "includes"
+            include: "_includes"
         }
     }
 }

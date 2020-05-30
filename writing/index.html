@@ -1,0 +1,15 @@
+---
+layout: base.liquid
+title: writing
+---
+    some of my regular musings, properly capitalized and formatted. since it is under construction, this page may appear broken to you.
+    <p></p>
+
+<div class="blogcontent">
+{% for post in collections.posts %}
+    <h2 class="blogcontenttitle"><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+    <em>{{ post.date. | date: "%B %d, %Y" }}</em>
+{% endfor %}
+
+<p></p>
+<a href="/" class="hover">Go back to the homepage!</a>

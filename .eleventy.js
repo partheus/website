@@ -1,18 +1,13 @@
 module.exports = function(eleventyConfig) {
-
-    eleventyConfig.addCollection('posts',collection => {
-        return collection.getFilteredByGlob('/src/writing/posts/*.md')
-    });
-
-    eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.setFrontMatterParsingOptions({
+    excerpt: true,
+    // Optional, default is "---"
+    excerpt_separator: "<!-- excerpt -->"
+  });
+  
+    eleventyConfig.addPassthroughCopy("css");
+    eleventyConfig.addPassthroughCopy("icons");
     return {
-        passthroughFileCopy: true,
-        markdownTemplateEngine: "njk",
-        templateFormats: ["njk","html","md"], 
-        dir: {
-            input: "src",
-            output: "_site",
-            include: "_includes"
-        }
+      passthroughFileCopy: true
     }
-}
+  }

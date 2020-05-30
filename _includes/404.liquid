@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title> {{ title }}</title>
+    <link rel="icon" href="/icons/datboi.png" />
+    <meta
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+      name="viewport"
+    />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content="" />
+    <!--     Fonts and icons     -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@500&family=Bangers&family=Mali&family=Parisienne&family=Montserrat:wght@800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" type="text/css" href="/css/main.css" />
+    <style type="text/css"></style>
+  </head>
+
+  <body>
+    <div class='box'>
+      <div class='wave -one'></div>
+      <div class='wave -two'></div>
+      <div class='wave -three'></div>
+    </div>
+    <nav>
+      <ul>        
+    <li><a href="/" class="hover">home</a></li>
+    <li><a href="/about" class="hover">about</a></li>
+		<li><a href="/writing" class="hover">writing</a></li>
+		<li><a href="/projects" class="hover">projects</a></li>
+		<li><a href="/downloads" class="hover">writing</a></li>
+    </ul>
+    </nav>
+    <h1 class="name"><span class="undertxt"><a href="https://tools.ietf.org/html/rfc7231#section-6.5.4" >ERROR: 404</a></span>
+    </h1>
+
+    <div class="bodytext">
+      <span class="page404msg1">Looks like</span><span class="page404msg2"> this page is breaking</span>
+      <span class="page404msg1"> character!</span>
+      <p class="page404msg2"> <a href="/">Click here to go back!</a></p>
+    </div>
+    
+{{ content | safe }}
+
+  <hr />
+    <footer>
+      <ul>
+        <li><a href="https://raw.githubusercontent.com/partheus/website/master/LICENSE" class="foothover">© <script>document.write(new Date().getFullYear())</script> — Parth Shiralkar</a></li>
+        <li>
+        <a href="https://github.com/partheus" class="hover">github.com/partheus</a>
+        </li>
+      </ul>
+    </footer>
+  </body>
+</html>

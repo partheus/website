@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>{{ title }}</title>
+    <link rel="icon" href="/icons/hand.png" />
+    <meta
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+      name="viewport"
+    />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content="" />
+    <!--     Fonts and icons     -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@500&family=Bangers&family=Mali&family=Damion&family=Montserrat:wght@800&display=swap"
+    rel="stylesheet"/>
+    <link rel="stylesheet" type="text/css" href="/css/main.css" />
+    <style type="text/css"></style>
+  </head>
+
+  <body>
+
+    <nav>
+    <ul>        
+    <li><a href="/" class="hover home">home</a></li>
+    <li><a href="/about" class="hover">about</a></li>
+		<li><a href="/writing" class="hover">writing</a></li>
+		<li><a href="/projects" class="hover">projects</a></li>
+		<li><a href="/downloads" class="hover">downloads</a></li>
+    </ul>
+    </nav>
+    <h1 class="name">
+      {{ title }}</span>
+    </h1>
+
+    <div class="bodytext">
+      {{ pagecontent }}
+    </div>
+
+    <div class="bodytext">
+      {{ content | safe }}
+    </div>
+
+
+  <hr />
+    <footer>
+      <ul>
+        <li><a href="https://raw.githubusercontent.com/partheus/website/master/LICENSE" class="foothover">© <script>document.write(new Date().getFullYear())</script> — Parth Shiralkar</a></li>
+        <li><a href="https://github.com/partheus" class="hover">github.com/partheus</a></li>
+      </ul>
+    </footer>
+  </body>
+</html>

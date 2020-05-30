@@ -208,7 +208,7 @@ footer{
 .projecttitle{
   font-size: 1.25rem;
   padding: 10px 20px 0px 20px;
-  color: #f0a500;
+  color: #f6d743;
   font-family: "Montserrat", sans-serif;
   letter-spacing: 0.15rem;
   font-weight: 700;
@@ -217,10 +217,9 @@ footer{
 .projectdetails{
   padding: 0px 20px 30px 20px;
   font-size: 1rem;
-  color: #f6d743;
+  color: #f0a500;
   font-family: "Manrope", sans-serif;
   letter-spacing: 0.12rem;
-  font-weight: 700;
 }
 
 .name {

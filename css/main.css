@@ -44,7 +44,7 @@ hr {
   border: 0;
   height: 1px;
   background-color: #255965;
-  margin-top: 80px;
+  margin-top: 50px;
   margin-bottom: 60px;
 }
 
@@ -159,11 +159,10 @@ footer{
 }
 
 .blogcontent {
-  margin: 30px;
   color: #e7c296;
   font-family: "Manrope", sans-serif;
   font-size: 1rem;
-  letter-spacing: 0.05rem;
+  letter-spacing: 0.06rem;
 }
 
 .blogcontenttitle {

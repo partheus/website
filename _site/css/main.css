@@ -144,6 +144,9 @@ footer{
   transition: all 0.2s ease-in-out 0s;
 }
 
+b{
+  font-size: 1.2rem;
+}
 
 .undertxt > a:hover::before {
   visibility: visible;

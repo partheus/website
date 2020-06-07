@@ -1,0 +1,42 @@
+---
+layout: "base.liquid"
+title: ""
+pagecontent: ""
+---
+<center>
+<canvas id="canvas" width="150" height="150"></canvas>
+<script>
+  var canvas = document.getElementById('canvas');
+  var context = canvas.getContext('2d');
+  var centerX = canvas.width / 2;
+  var centerY = canvas.height / 2;
+  var radius = 70;
+  var eyeRadius = 15;
+  var eyeXOffset = 20;
+  var eyeYOffset = 20;
+  
+  // bg
+  context.beginPath();
+  context.arc(centerX, centerY, radius, 0, 2 * Math.PI, false);
+  context.fillStyle = 'yellow';
+  context.fill();
+  context.lineWidth = 7;
+  context.strokeStyle = 'black';
+  context.stroke();
+    
+  // eyes
+  context.beginPath();
+  var eyeX = centerX - eyeXOffset;
+  var eyeY = centerY - eyeXOffset;
+  context.arc(eyeX, eyeY, eyeRadius, 0, 2 * Math.PI, false);
+  var eyeX = centerX + eyeXOffset;
+  context.arc(eyeX, eyeY, eyeRadius, 0, 2 * Math.PI, false);
+  context.fillStyle = 'black';
+  context.fill();
+  
+  // mouth
+  context.beginPath();
+  context.arc(centerX, centerY, 25, 0, Math.PI, false);
+  context.stroke();
+</script>
+</center>

@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <title> cool stuff</title>
+    <title> {{ title }}</title>
     <link rel="icon" href="/icons/hand.png" />
     <meta
       content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
@@ -34,16 +34,9 @@
   >l s<span class="periodt"><a href="https://dood.al/pinktrombone/">tuff</a></span></span>
     </h1>
     <div class="bodytext">
-      like you, I love free downloads on the Internet. here are some my own favorite files that you can download:
+      {{ pagecontent }}
     </div>
-
-<div class="bodytext">
-    <ul>
-        <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="hover">free meme</a></li>
-    </ul>
-</div>
-<br/><br/>
-
+{{ content | safe }}
 
   <hr />
     <footer>

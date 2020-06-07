@@ -213,7 +213,7 @@ b{
 }
 
 .projectholder:hover{
-  box-shadow: 2px 2px 2px 2px #c35d0b;
+  box-shadow: 2px 2px 1px 2px #c35d0b;
   transition: 0.13s;
 }
 
@@ -222,7 +222,7 @@ b{
   padding: 10px 20px 0px 20px;
   color: #f6d743;
   font-family: "Montserrat", sans-serif;
-  letter-spacing: 0.15rem;
+  letter-spacing: 0.1rem;
   font-weight: 700;
 }
 
@@ -231,7 +231,7 @@ b{
   font-size: 1rem;
   color: #f0a500;
   font-family: "Manrope", sans-serif;
-  letter-spacing: 0.12rem;
+  /* letter-spacing: 0.12rem; */
 }
 
 .name {

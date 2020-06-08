@@ -31,8 +31,7 @@ body {
   width: 70%;
   max-width: 60rem;
   margin: 0 auto;
-  background-color: #151921;
-  opacity: 97%;
+  background-color: #1a2435;
 }
 
 hr {
@@ -201,7 +200,7 @@ b {
 
 .projectholder {
   text-decoration: none;
-  background-color: #374955;
+  background-color: #35485f;
   margin-top: 35px;
   width: 100%;
   border-radius: 5px;
@@ -215,16 +214,16 @@ b {
 .projecttitle {
   font-size: 1.25rem;
   padding: 10px 20px 0px 20px;
-  color: #ffd933;
+  color: #facf5a;
   font-family: "Montserrat", sans-serif;
   letter-spacing: 0.1rem;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 .projectdetails {
   padding: 0px 20px 30px 20px;
   font-size: 1rem;
-  color: #ff753e;
+  color: #ff5f5f;
   font-family: "Manrope", sans-serif;
   /* letter-spacing: 0.12rem; */
 }

@@ -201,21 +201,21 @@ b {
 
 .projectholder {
   text-decoration: none;
-  background-color: #30475e;
+  background-color: #374955;
   margin-top: 35px;
   width: 100%;
   border-radius: 5px;
 }
 
 .projectholder:hover {
-  box-shadow: 2px 2px 1px 2px #c35d0b;
+  box-shadow: 2px 2px 1px 2px #f95959;
   transition: 0.13s;
 }
 
 .projecttitle {
   font-size: 1.25rem;
   padding: 10px 20px 0px 20px;
-  color: #f6d743;
+  color: #ffd933;
   font-family: "Montserrat", sans-serif;
   letter-spacing: 0.1rem;
   font-weight: 700;
@@ -224,7 +224,7 @@ b {
 .projectdetails {
   padding: 0px 20px 30px 20px;
   font-size: 1rem;
-  color: #f0a500;
+  color: #ff753e;
   font-family: "Manrope", sans-serif;
   /* letter-spacing: 0.12rem; */
 }

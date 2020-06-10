@@ -38,7 +38,7 @@ hr {
 }
 
 nav {
-  margin-top: 30px;
+  margin-top: 3rem;
 }
 
 nav-item-active {
@@ -154,13 +154,14 @@ b {
 }
 
 .events {
-  margin-top: 3rem;
+  margin-top: 4rem;
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
   letter-spacing: 1px;
 }
 
 .current {
+  line-height: 1.25rem;
   display: inline-block;
   background-color: #223553;
   width: initial;
@@ -173,8 +174,8 @@ b {
 
 .current:hover {
   background-color: #22343b;
-  box-shadow: 1px 1px 1px 1px #f95959;
-  transition: 0.13s;
+  box-shadow: 2px 2px 1px 1.25px #f95959;
+  transition: 0.15s;
 }
 
 .currenthigh>a:hover {
@@ -225,15 +226,15 @@ b {
 .projectholder {
   padding-bottom: 10px;
   text-decoration: none;
-  background-color: #35485f;
+  background-color: #22354b;
   margin-top: 35px;
   width: 100%;
   border-radius: 5px;
 }
 
 .projectholder:hover {
-  box-shadow: 2px 2px 1px 2px #f95959;
-  transition: 0.13s;
+  box-shadow: 2px 2px 1px 1.25px #f95959;
+  transition: 0.15s;
 }
 
 .projecttitle {

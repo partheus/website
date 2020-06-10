@@ -309,7 +309,7 @@ b {
 
 /*waves*/
 
-.box {
+/* .box {
   position: fixed;
   top: 0;
   transform: rotate(80deg);
@@ -324,7 +324,7 @@ b {
   background: #fcbf1e;
   width: 2100px;
   height: 2000px;
-  /* transform-origin: 50% 48%; */
+  transform-origin: 50% 48%;
   border-radius: 45%;
   animation: drift 9000ms infinite linear;
 }
@@ -363,7 +363,7 @@ b {
   }
 }
 
-/*LOADING SPACE*/
+LOADING SPACE
 
 .contain {
   animation-delay: 4s;
@@ -390,7 +390,7 @@ b {
   background: linear-gradient(#25a7d7, #25a7d7);
 }
 
-/*Animation*/
+Animation
 .icon:nth-child(2) img {
   -webkit-animation-delay: 0.2s;
   animation-delay: 0.2s;
@@ -463,4 +463,4 @@ b {
     transform: scale(0, 0) rotateZ(90deg);
     opacity: 0;
   }
-}
+} */

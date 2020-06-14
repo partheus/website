@@ -3,8 +3,12 @@ const CleanCSS = require("clean-css");
 module.exports = function(eleventyConfig) {
   eleventyConfig.setFrontMatterParsingOptions({
     excerpt: true,
-    // Optional, default is "---"
     excerpt_separator: "<!-- excerpt -->"
+  });
+
+  eleventyConfig.addCollection('posts', collection => {
+    return [collection.getFilteredByGlob('./writing/posts/*.md')]
+      .reverse();
   });
   
     eleventyConfig.addPassthroughCopy("css");

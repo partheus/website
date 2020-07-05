@@ -5,6 +5,7 @@ date: "2020-07-05"
 tags: afsob
 description: "First chapter of new series"
 ---
+<meta name="twitter:image" content="/img/afsog.png" />
 <img src="/img/afsog.png" class="image"><br/><br/>
 Perhaps the first thing anyone notices about the office is its slow, meandering identity, like a camel on its way home after a long day of chewing whatever it is they chew. Bob could see, at eye level, his own reflection in the slightly tilted mirror that Dana always hung on her far cubicle wall. But all of this means absolutely nothing without some exposition, without the semblance of a backstory at the very least.
 

@@ -67,7 +67,13 @@ footer ul li {
   height: 25px;
 }
 
-.sitemap {
+.horiz {
+  background-color: #383e56;
+  width: 25%;
+  margin-left: 0;
+}
+
+.image {
   width: 100%;
 }
 
@@ -207,6 +213,15 @@ b {
 .blogcontenttitle>a {
   color: #dd7631;
   text-decoration: none;
+}
+
+.blogtitle {
+  font-size: 2rem;
+  margin-top: 4%;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 0.15rem;
+  font-weight: 700;
+  color: #3794e0;
 }
 
 .blogcontenttitle>a:hover {

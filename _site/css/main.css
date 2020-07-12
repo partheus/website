@@ -265,12 +265,11 @@ b {
 
 .periodt {
   color: rgba(218, 47, 47, 0.966) !important;
-  /* color: #0077c0; */
 }
 
 .periodt>a {
   text-decoration: none !important;
-  color: #ffa734;
+  color: #ffb048;
 }
 
 .periodt>a:hover {

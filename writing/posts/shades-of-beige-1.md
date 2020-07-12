@@ -5,6 +5,18 @@ date: "2020-07-05"
 tags: afsob
 description: "First chapter of new series"
 ---
+<meta name="twitter:card" content="summary_large_image" />
+ <meta name="twitter:title" content="How we used our new GraphQL Analytics API to build Firewall Analytics" />
+ <meta name="twitter:description" content="Firewall Analytics is the first product in the Cloudflare dashboard to utilize the new GraphQL API. All Cloudflare dashboard products are built using the same public APIs that we provide to our customers, allowing us to understand the challenges they face when interfacing with our APIs." />
+ <meta name="twitter:url" content="https://blog.cloudflare.com/how-we-used-our-new-graphql-api-to-build-firewall-analytics/" />
+ <meta name="twitter:image" content="https://blog-cloudflare-com-assets.storage.googleapis.com/2019/09/analytics-API--copy@2x-1.png" />
+ <meta name="twitter:label1" content="Written by" />
+ <meta name="twitter:data1" content="Nick Downie" />
+ <meta name="twitter:label2" content="Filed under" />
+ <meta name="twitter:data2" content="Product News, Analytics, API, GraphQL" />
+ <meta name="twitter:site" content="@cloudflare" />
+ <meta property="og:image:width" content="1600" />
+ <meta property="og:image:height" content="995" />
 <meta name="twitter:image" content="/img/afsog.png" />
 <img src="/img/afsog.png" class="image"><br/><br/>
 Perhaps the first thing anyone notices about the office is its slow, meandering identity, like a camel on its way home after a long day of chewing whatever it is they chew. Bob could see, at eye level, his own reflection in the slightly tilted mirror that Dana always hung on her far cubicle wall. But all of this means absolutely nothing without some exposition, without the semblance of a backstory at the very least.

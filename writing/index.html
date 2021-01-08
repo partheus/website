@@ -13,7 +13,7 @@ Since it is under construction, this webpage may appear broken to you.
     Blog
 </h1>
 <div class="blogcontent">
-    {% for post in collections.posts %}
+    {% for post in collections.posts reversed %}
     <h2 class="blogcontenttitle"><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
     <em>{{ post.date. | date: "%B %d, %Y" }}</em>
 {% endfor %}

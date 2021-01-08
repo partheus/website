@@ -1,7 +1,7 @@
 ---
 layout: post.liquid
 title: Don't shoot the messenger
-date: "2020-04-11"
+date: "2020-12-11"
 ---
 People who claim that Tokyo is a cool place haven’t actually had to run from a dozen rabid dogs in the middle of the night. My job brings with it the privilege of the rabid dog chase every other month or so. Become a spy, they said. You’ll get cool guns and stuff, they said. Well, I’m getting something else too: pissed off.
 

@@ -1,7 +1,7 @@
 ---
 layout: post.liquid
-title: College students cure virus over weekend
-date: "2020-05-03"
+title: College students cure virus over weekend (Satirical fiction)
+date: "2020-05-23"
 ---
 
 On Friday, the 1st of May, several students still living in Ames, Iowa confirmed rumors of rapidly-declining COVID-19 cases after parties on campus and around town began to flourish around 9pm. Jean Deaux, a French exchange student majoring in Street Epistemology, attested to other rumors. “It’s true, yep,” they said. “I could see everything from my apartment above Welch, clear as a sunny day in November. Students entered the Kum & Go in large hordes – showing at least seven symptoms of the virus – but exited with beaming smiles on their faces. They were shouting something about Saturdays and buoys, haha,” said Deaux. “Physics was never my strongest suit.”

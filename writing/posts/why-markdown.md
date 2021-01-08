@@ -1,7 +1,7 @@
 ---
 layout: post.liquid
-title: What's up with Markdown?
-date: "2020-08-17"
+title: What's up with Markdown anyway?
+date: "2020-12-17"
 ---
 
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. John Gruber created Markdown in 2004. Right now, Markdown is one of the most (if not **the** most) popular markup languages on the internet.

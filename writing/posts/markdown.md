@@ -10,3 +10,6 @@ Quick references for myself:
 * `[linked text](http://duckduckgo.com/)`
 * Superscript: `E=MC<sup>2</sup>`
 * Lists/nested lists: `*` item name
+* H1 to H6 Headings: `#` HEADING1
+* Horizontal Line: Three of either `---`, `***`, or `___`
+* Image: `![Alt Text](http://example.com/image/path.png)`

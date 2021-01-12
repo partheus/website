@@ -62,6 +62,10 @@ footer ul li {
   width: 100%;
 }
 
+.pixelimg {
+  width: 25%;
+}
+
 footer {
   padding-bottom: 7rem;
 }

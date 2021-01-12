@@ -314,6 +314,10 @@ b {
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
 
+  .pixelimg {
+    width: 69%;
+  }
+
   nav ul li,
   footer ul li {
     display: inline;

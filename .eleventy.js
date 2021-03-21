@@ -10,6 +10,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("css");
     eleventyConfig.addPassthroughCopy("icons");
     eleventyConfig.addPassthroughCopy("img");
+    eleventyConfig.addPassthroughCopy("design_img");
     return {
       passthroughFileCopy: true
     }

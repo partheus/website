@@ -352,7 +352,7 @@ b {
 
 /*waves*/
 
-/* .box {
+.box {
   position: fixed;
   top: 0;
   transform: rotate(80deg);
@@ -406,7 +406,7 @@ b {
   }
 }
 
-LOADING SPACE
+/* LOADING SPACE */
 
 .contain {
   animation-delay: 4s;
@@ -433,7 +433,7 @@ LOADING SPACE
   background: linear-gradient(#25a7d7, #25a7d7);
 }
 
-Animation
+/* Animation */
 .icon:nth-child(2) img {
   -webkit-animation-delay: 0.2s;
   animation-delay: 0.2s;
@@ -506,4 +506,4 @@ Animation
     transform: scale(0, 0) rotateZ(90deg);
     opacity: 0;
   }
-} */
+}

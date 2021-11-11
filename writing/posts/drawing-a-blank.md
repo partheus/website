@@ -23,7 +23,7 @@ Ezekiel poured again. The stranger downed it again.
 
 After four or five of these, the stranger asked Ezekiel how long the place would be open.
 
-Ezekiel laughed carefully. &quot;You planning on staying long? We&#39;re open all hours.&quot;
+Ezekiel laughed carefully. &quot;You planning on staying long? We&#39;re open long hours. Tonight, I'm closing up at midnight.&quot;
 
 The stranger nodded, as if confirming a detail from memory. &quot;Good. You&#39;ll have to make them all leave for two of them.&quot; With that last bit, the stranger smiled politely. &quot;Two hours.&quot;
 
@@ -39,7 +39,7 @@ _Oh_, thought Ezekiel. The stranger rambled on as Ezekiel&#39;s own mental foots
 
 &quot;I understand. How many?&quot;
 
-The stranger gazed at him, impressed his rapid acclimation to the situation. &quot;I&#39;m glad you caught up fast. Thank you. There will be four of them.&quot;
+The stranger gazed at him, impressed by his rapid acclimation to the situation. &quot;I&#39;m glad you caught up fast. Thank you. There will be four of them.&quot;
 
 Ezekiel nodded. He palmed his revolver and tucked it snugly in the back of his waistband. Getting the patrons out proved easier than he had imagined. He simply gave them all a free drink and sent them on their way. Now for the wait.
 
@@ -65,13 +65,13 @@ The four men all had leather jackets fashioned with a motif of one suit from a d
 
 Or maybe it was the stranger, who was gearing up to have at them again. His hat never left his head, and his movements retained their lithe grace. Ezekiel found his mind drifting…
 
-Solomon&#39;s Folly has witnessed scores of strange goings-on. It continues to do so, and will probably continue to do so long after Ezekiel was dead. It just was one of those places. Ezekiel considered this for a moment. Just last year there had been the librarian with a magical bead up his-
+Over the centuries, Solomon&#39;s Folly has witnessed scores of strange goings-on. It continues to do so, and will probably continue to do so long after Ezekiel was dead. It just was one of those places. Ezekiel considered this for a moment. Just last year there had been the librarian with a magical bead up his-
 
 _Thwack!_
 
 This third smack got Ezekiel&#39;s attention.
 
-The stranger had finally landed a kick to Clubs&#39; midriff. Clubs&#39; staggered, and there was a brief lull in the action. The stranger moved again. _Fast._
+The stranger had finally landed a kick to Clubs&#39; midriff. Clubs staggered, and there was a brief lull in the action. The stranger moved again. _Fast._
 
 His coat whooshed behind him as he found his rhythm, and he spun among the four giants, punching and kicking and dodging and crouching. Behind the bar, making absolutely no sound, Ezekiel plucked out a bottle of their finest moonshine and sipped at it. The air grew tenser around the six individuals, and it appeared to be building up to a crescendo.
 
@@ -85,11 +85,13 @@ Four long barrels appeared in the distance.
 
 Within moments, the sound of gunfire filled the saloon. Bullets whooshed around Ezekiel, passing millimeters from his ears as he sipped the moonshine. It was delicious, he thought, as the bullets smacked into the shelves, bottles breaking and tumbling. _This is to be expected,_ he told himself.
 
-The stranger&#39;s coat, still billowing in the slipstream of all the projectiles, was peppered with jagged holes. Ezekiel said nothing. The stranger&#39;s arm had never moved.
+The stranger&#39;s coat, still billowing in the slipstream of all the projectiles, was peppered with jagged holes. Ezekiel said nothing. The stranger&#39;s arm had never moved, at least according to Ezekiel's inebriated observations.
+
+Silence.
 
 Far away, at the doors, both Diamonds and Spades were leaning back. Both of them toppled with soft, wet thuds, two bloody bullet-holes per face. Clubs was clutching at his abdomen with one arm, the other hanging loosely next to his side. The shoulder was busted wide open. Finally, Hearts took a step forward and sat down – very heavily – into the nearest chair. A bright red spot was blooming to one side of his sternum.
 
-The stranger straightened up and turned to face the bar. Ezekiel said nothing, peering at the last man slumping into the chair, dying slowly as his heart came to a standstill. He looked back at the stranger. _Funny guy_, he thought. _Unscathed funny guy._
+The stranger straightened up and turned to face the bar, putting away two dark pistols. Ezekiel said nothing, peering at the last man slumping into the chair, dying slowly as his heart came to a standstill. He looked back at the stranger. _Funny guy_, he thought. _Unscathed funny guy._
 
 &quot;How&#39;d you do that?&quot; said Ezekiel.
 

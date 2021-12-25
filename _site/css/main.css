@@ -220,6 +220,20 @@ b {
   color: #3794e0;
 }
 
+.booktitle {
+  font-size: 2rem;
+  margin-top: 4%;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 0.15rem;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.booktitle>a:hover {
+  text-decoration: none !important;
+  color: #ce2002;
+}
+
 .blogcontenttitle>a:hover {
   text-decoration: none;
   color: #53da41;

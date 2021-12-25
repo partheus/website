@@ -221,12 +221,17 @@ b {
 }
 
 .booktitle {
-  font-size: 2rem;
+  font-size: 1.25rem;
   margin-top: 4%;
   font-family: "Montserrat", sans-serif;
   letter-spacing: 0.15rem;
   font-weight: 400;
   color: #ffffff;
+}
+
+.booktitle>a {
+  font-size: 1.75rem;
+  color: #ffe600;
 }
 
 .booktitle>a:hover {
